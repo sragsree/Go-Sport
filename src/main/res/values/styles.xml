@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <string-array name="Sports" >
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Golf</item>
+        <item>Soccer</item>
+        <item>Tennis</item>
+        <item>Track and field</item>
+        <item>Volleyball</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
