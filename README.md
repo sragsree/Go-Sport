@@ -14,7 +14,7 @@ For contibuting to the development or to view the source code one has to install
   - Download Android Studio from https://developer.android.com/studio/index.html
   - Launch the .exe file you downloaded.
   - Follow the setup wizard to install Android Studio and any necessary SDK tools.
-  - THis application can be run in Emulator or on an actual device running Android 4.3 or above
+  - This application can be run in Emulator or on an actual device running Android 4.3 or above
   - Network access is required for the application to work.
 
 ### Usage
